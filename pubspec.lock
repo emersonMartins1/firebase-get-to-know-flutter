@@ -177,7 +177,7 @@ packages:
     source: hosted
     version: "1.0.5"
   firebase_ui_localizations:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: firebase_ui_localizations
       url: "https://pub.dartlang.org"
